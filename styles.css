@@ -23,7 +23,7 @@ body {
   background-color: var(--Very-light-grayish-blue);
 }
 .title {
-  font-size: 24px;
+  font-size: 24px !important;
 }
 .notifications-container {
   margin: 2rem;
