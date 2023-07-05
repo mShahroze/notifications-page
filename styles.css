@@ -35,7 +35,7 @@ header {
   justify-content: space-between;
   margin-bottom: 2rem;
 }
-.notication-header {
+.notification-header {
   display: flex;
   align-items: center;
 }
@@ -59,6 +59,7 @@ header {
 }
 p {
   color: var(--Dark-grayish-blue);
+  font-size: 16px;
 }
 main {
   display: flex;
