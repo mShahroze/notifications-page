@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mShahroze/notifications-page-main)
-- Live Site URL: [Add live site URL here](https://mshahroze.github.io/notifications-page-main/)
+- Solution URL: [Github](https://github.com/mShahroze/notifications-page-main)
+- Live Site URL: [Github Pages](https://mshahroze.github.io/notifications-page-main/)
 
 ### Built with
 
